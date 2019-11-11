@@ -41,10 +41,15 @@ end
 Run your test suite again, and you should be passing the first one.
 
 ### `#using_sort`
+def using_sort(array)
+  array.sort
+end
 
 This method takes in an argument of an array and should return the array, sorted in ascending order. Use the `#sort` method on the array to get this test passing.
 
 ### `#using_reverse`
+def using_reverse(array)
+  array.rever
 
 This method takes in an argument of an array and should return the array with the contents in reverse order. Use the `#reverse` method on the array to get this test passing.
 
