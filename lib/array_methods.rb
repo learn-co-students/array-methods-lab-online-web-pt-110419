@@ -1,23 +1,17 @@
-def using_include(array, element)
-
+favorite_video_games.include?("WWE2K")
 end
 
-def using_sort(array)
-
+favorite_video_games.sort
 end
 
-def using_reverse(array)
-
+favorite_video_games.reverse
 end
 
-def using_first(array)
-
+favorite_video_games.first
 end
 
-def using_last(array)
-
+favorite_video_games.last
 end
 
-def using_size(array)
-
+favorite_video_games.size
 end
